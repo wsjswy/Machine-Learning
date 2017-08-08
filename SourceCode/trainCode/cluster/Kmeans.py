@@ -88,11 +88,6 @@ def generate_sample_data():
 
     plt.show()
 
-
-def geoGrab(stAdress, city):
-
-
-
 if __name__ == '__main__':
 
     generate_sample_data()
