@@ -50,4 +50,4 @@ if __name__ == "__main__":
 
     L1, supprotData = scanD(D, C1, 0.5)
 
-    prin(supprotData)
+    print(supprotData)

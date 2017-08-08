@@ -1,6 +1,7 @@
 __author__ = 'wsjswy'
 
-import  bayes2
+import bayes2
+
 
 listOPosts, listClasses = bayes2.loadDataSet()
 
